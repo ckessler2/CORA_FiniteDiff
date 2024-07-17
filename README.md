@@ -10,4 +10,14 @@ As evidence of my method working as intended, I have implemented it in two exist
 
 <hr style="height: 1px;">
 
+### Limitations
+
+* Only works for 1st and 2nd derivative matrices (Jacobian and Hessian). Third-order should be possible, but I could not get it to work
+
 ### Tank Example
+
+asd
+
+### Quad Example
+
+asd
