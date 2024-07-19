@@ -12,7 +12,6 @@ If reliable, this could enable CORA to be used with any dynamic model no matter 
 
 * Only works up to 2nd order derivatives (Jacobian and Hessian). 3rd order should be possible, but I could not get it to work
 * Derivative approximation accuracy depends on the size of perturbation (delta), defined in the FDA scripts
-* Accuracy of reachable set depends on several parameters in the reachability script, which I determined through trial and error
 
 ### Tank Example
 
