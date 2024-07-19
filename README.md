@@ -6,12 +6,12 @@ To verify a given model, CORA derives and solves Jacobian and Hessian matrices, 
 
 If reliable, this could enable CORA to be used with any dynamic model no matter how complex - the examples and benchmark systems are all relatively simple models. As evidence of my method working as intended, I have implemented it in two existing CORA examples - [Tank](https://github.com/TUMcps/CORA/blob/master/examples/contDynamics/nonlinearSys/example_nonlinear_reach_01_tank.m) and [Quad](https://github.com/TUMcps/CORA/blob/master/examples/contDynamics/neurNetContrSys/benchmark_neuralNet_reach_09_QUAD.m).
 
-<hr style="height: 1px;">
-
 ### Limitations
 
 * Only works up to 2nd order derivatives (Jacobian and Hessian). 3rd order should be possible, but I could not get it to work
 * Derivative approximation accuracy depends on the size of perturbation (delta), defined in the FDA scripts
+
+<hr style="height: 1px;">
 
 ### Tank Example
 
