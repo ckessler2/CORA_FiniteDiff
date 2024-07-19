@@ -17,6 +17,8 @@ If reliable, this could enable CORA to be used with any dynamic model no matter 
 
 ![Test Image 1]((https://github.com/ckessler2/CORA_FiniteDiff/blob/main/CORA_FiniteDiff_Tank.jpg))
 
+<img src="https://github.com/ckessler2/CORA_FiniteDiff/blob/main/CORA_FiniteDiff_Tank.jpg">
+
 ### Quad Example
 
 asd
