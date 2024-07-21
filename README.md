@@ -11,6 +11,11 @@ If reliable, this could enable CORA to be used with any dynamic model no matter 
 * Only implemented for 1st and 2nd order derivatives (Jacobian and Hessian)
 * Derivative approximation accuracy depends on the size of perturbation (delta), defined in the FDA scripts
 
+### How to use 
+
+* Only implemented for 1st and 2nd order derivatives (Jacobian and Hessian)
+* Derivative approximation accuracy depends on the size of perturbation (delta), defined in the FDA scripts
+
 <hr style="height: 1px;">
 
 ### Tank Result
