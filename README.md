@@ -14,7 +14,7 @@ The CORA examples and benchmark all involve relatively simple models, but if rel
 ### How to use 
 
 * Only implemented for 1st and 2nd order derivatives (Jacobian and Hessian)
-* Derivative approximation accuracy depends on the size of perturbation (delta), defined in the FDA scripts
+* Approximation accuracy depends on the size of perturbation (delta), defined in the FDA scripts
 
 <hr style="height: 1px;">
 
