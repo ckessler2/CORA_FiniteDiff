@@ -8,7 +8,7 @@ If reliable, this could enable CORA to be used with any dynamic model no matter 
 
 ### Limitations
 
-* Only works up to 2nd order derivatives (Jacobian and Hessian). 3rd order should be possible, but I could not get it to work
+* Only implemented for 1st and 2nd order derivatives (Jacobian and Hessian)
 * Derivative approximation accuracy depends on the size of perturbation (delta), defined in the FDA scripts
 
 <hr style="height: 1px;">
